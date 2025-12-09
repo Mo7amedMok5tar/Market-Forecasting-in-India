@@ -1,0 +1,16 @@
+pandas
+numpy
+requests
+sqlalchemy
+pydantic
+fastapi
+uvicorn
+python-dotenv
+arch
+scikit-learn
+matplotlib
+pymongo
+pytest
+pytest-cov
+jupyter
+notebook
